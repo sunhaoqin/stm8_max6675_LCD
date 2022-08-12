@@ -1,0 +1,57 @@
+bsp_key.pbi: \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp\bsp_key.c \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_config.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\user\stm8l15x_conf.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_adc.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc/stm8l15x.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_aes.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_beep.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_clk.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_comp.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_dac.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_dma.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_exti.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_flash.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_gpio.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_i2c.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_irtim.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_itc.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_iwdg.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_lcd.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_pwr.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_rst.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_rtc.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_spi.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_syscfg.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim1.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim2.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim3.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim4.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_tim5.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_usart.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc/stm8l15x_clk.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_wfe.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\project\..\STM8L15x_StdPeriph_Driver\inc\stm8l15x_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_low.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_sysclk.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_io.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_lcd.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8mmn.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ystdio.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_rtc.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_key.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_soft_i2c.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/bsp_si7005.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/18b20.h \
+  D:\project\stm8\demo7_stm8l152c6_LCD\ _低功耗_RTC设置_温湿度显示\ _S3\bsp/max6675.h
