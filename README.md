@@ -1,0 +1,3 @@
+# stm8_max6675_LCD
+stm8_max6675_LCD
+用stm8制作的低功耗温度计
