@@ -1,0 +1,3 @@
+# ignore IAR files
+max6675热电偶/project/Debug/
+max6675热电偶/project/Release/
